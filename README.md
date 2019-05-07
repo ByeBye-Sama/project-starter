@@ -1,4 +1,4 @@
-Project starter
+# Project starter
 Template to start projects with webpack, babel, sass, Eslint (airbnb style), bootstrap.
 ## Installing
 Just pull or clone the branch you want
